@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "462331951473",
+    "project_id": "movie-recommendation-sys-136fc",
+    "storage_bucket": "movie-recommendation-sys-136fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462331951473:android:112018dffdb5ba11c69ed0",
+        "android_client_info": {
+          "package_name": "com.example.movierec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462331951473-hu40r93bua6du239m6e9mp45ejdl6ge6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpTx4z_nXRPbVZW-4aJgy-koVmc-KfBfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462331951473-hu40r93bua6du239m6e9mp45ejdl6ge6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "462331951473-g0kmb33s6e8fit8t23e8pe6v5prd35rg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartbins"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
