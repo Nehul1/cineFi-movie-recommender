@@ -1,0 +1,17 @@
+# Function dependencies, for example:
+# package>=version
+numpy>=1.18.2
+pandas == 1.4.4
+firebase>=3.0.0
+python-jwt>=3.2.6
+gcloud>=0.18.3
+Crypto>=1.4.1
+sseclient>=0.0.26
+pycryptodome>=3.9.8
+pycrypto>=2.6.1
+requests-toolbelt>=0.9.1
+firestore>=0.0.8
+surprise
+scikit-learn
+fsspec
+gcsfs
